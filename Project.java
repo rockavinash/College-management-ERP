@@ -1,9 +1,9 @@
- import java.awt.*;
+import java.awt.*;
 import java.awt.event.ActionEvent; //for action of button
 import java.awt.event.ActionListener; //for checking window status
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent; //for events
-import java.awt.event.WindowListener;
+import java.awt.event.WindowListener; //for event listening 
 
 public class Project
 {
