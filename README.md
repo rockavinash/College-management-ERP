@@ -1,2 +1,1 @@
-# College-management-ERP
-This is my 2nd year project on college management erp with the help of java
+Developed a College Management ERP system as a 2nd-year academic project using Java. The application streamlines and automates administrative and academic processes within a college environment, ensuring efficient management of students, faculty, courses, and examinations.
